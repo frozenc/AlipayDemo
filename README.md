@@ -11,7 +11,7 @@
 ## [雪花算法原理](https://github.com/beyondfengyu/SnowFlake)
 参考文章：http://www.wolfbe.com/detail/201611/381.html
 
-2. SSH 端口转发：你只需要一台服务器......
+## SSH 端口转发
 ```
 本地：
 ssh -NR <local-host>:<local-port>:<remote -host>:<remote-port> user@host
